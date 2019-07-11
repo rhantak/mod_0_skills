@@ -1,0 +1,13 @@
+Object: classroom_4b
+
+Attributes:
+area_sqft (506.75)
+has_whiteboard (false)
+chairs (23)
+room_name ("4b")
+
+Methods:
+add_chair (23 + 1 = 24)
+add_whiteboard (has_whiteboard = true)
+change_name (room_name = "402")
+empty_chairs (chairs = 0)

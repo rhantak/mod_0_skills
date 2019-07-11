@@ -1,0 +1,13 @@
+Object: ryan_hantak
+
+Attributes:
+name ("Ryan Hantak")
+enrollment_date (6/24/2019)
+deposit_paid (true)
+current_module (0)
+
+Methods:
+days_enrolled (7/11/2019 - 6/24/2019 = 17)
+complete_module (current_module=current_module + 1 = 0 + 1 = 0)
+pay_deposit (deposit_paid = true)
+enroll_student (enrollment_date = 7/11/2019)

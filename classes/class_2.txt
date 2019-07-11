@@ -1,0 +1,13 @@
+Class: classroom
+
+Attributes:
+area_sqft (float)
+has_whiteboard (boolean)
+chairs (integer)
+room_name (string)
+
+Methods:
+add_chair (Adds 1 to number of chairs)
+add_whiteboard (Changes has_whiteboard to true)
+change_name (Changes room_name to a new string given by the user)
+empty_chairs (Sets value for chairs to 0)

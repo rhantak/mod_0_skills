@@ -1,6 +1,6 @@
-1 How to Become a Turing Student
-    1.1 Decide Turing is the right choice
-        1.1.1 Search for coding bootcamps online
+- 1 How to Become a Turing Student
+    - 1.1 Decide Turing is the right choice
+        - 1.1.1 Search for coding bootcamps online
         1.1.2 Create a list of important criteria to grade bootcamps on
             1.1.2.1 Decide on what is important to you
             1.1.2.2 Create a table with those criteria and spaces for multiple schools

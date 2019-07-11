@@ -1,0 +1,13 @@
+Class: Student
+
+Attributes:
+name (string)
+enrollment_date (datetime)
+deposit_paid (boolean)
+current_module (integer)
+
+Methods:
+days_enrolled (Compares enrollment_date to current date and returns and integer for how many days the student has been enrolled)
+complete_module (Adds 1 to current_module to update information when a student advances)
+pay_deposit (Sets deposit_paid = true when the student pays their deposit)
+enroll_student (Sets enrollment_date to current date when a student enrolls in class)
